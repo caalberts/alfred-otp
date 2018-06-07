@@ -14,3 +14,7 @@ Alfred workflow to generate OTP secured in keychain.
 
 - Install `oathtool` via `brew install oath-toolkit`
 - Keychain
+
+## Credits
+
+Inspired by https://github.com/MyDeity/OTP-Generator.
